@@ -20,16 +20,16 @@
 
 ### [【红警载入图】V0.2.1测试版（gitee）](https://gitee.com/gtx750ti/bbc/issues/I4MX8A)
 
-### [【红警地图编辑器】使用和安装（未完成）](https://github.com/750ti/Baibaichuan-Ra2-Note/blob/main/%E3%80%90%E7%BA%A2%E8%AD%A6%E5%9C%B0%E5%9B%BE%E7%BC%96%E8%BE%91%E5%99%A8%E3%80%91%E4%BD%BF%E7%94%A8%E5%92%8C%E5%AE%89%E8%A3%85.md)
+### [【红警地图编辑器】使用和安装](https://github.com/750ti/Baibaichuan-Ra2-Note/blob/main/%E3%80%90%E7%BA%A2%E8%AD%A6%E5%9C%B0%E5%9B%BE%E7%BC%96%E8%BE%91%E5%99%A8%E3%80%91%E4%BD%BF%E7%94%A8%E5%92%8C%E5%AE%89%E8%A3%85.md)
 
 ### 【文章标题】（未完待续...）
 
 ---
 
-
-
 - 更新日志：（倒序）
+- 2023年7月5日 更新【红警地图编辑器】文章，上传编辑器到各大网盘，分享下载地址，并写下简易的文章内容。
 - 2023年1月8日 将本仓库更新至视频置顶  
 - 2022年10月30日 创建仓库  
+
 
 
